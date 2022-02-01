@@ -6,11 +6,11 @@
         <br/>
       Entrei para a área de TI em 2021 e estou A-m-a-n-d-o- cada descoberta e aprendizado
     </h2>
-<img align="right" width="300px" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" />
+<img align="right" width="320px" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" />
 </div>
 <div align="left">
   <a href="https://github.com/PriscilaRoza">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PriscilaRoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  height="185em" src="https://github-readme-stats.vercel.app/api?username=PriscilaRoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRoza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 

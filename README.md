@@ -10,7 +10,7 @@
         <br/>
       Entrei para a área de TI em 2021 e estou A-m-a-n-d-o- cada descoberta e aprendizado
     </h2>
-<img align="right" width="200px" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" />
+<img align="right" width="400px" src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" />
 </div>
 <div align="left">
   <a href="https://github.com/PriscilaRoza">

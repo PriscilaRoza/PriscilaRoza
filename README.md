@@ -30,17 +30,17 @@ Iniciei no incrível mundo da programação em 2021.</h4>
 
 <br> </br> ![](https://api.visitorbadge.io/api/VisitorHit?user=PriscilaRoza&repo=github-visitors-badge&countColor=%237B1E7A)<br><br>
 
+<h2 align="center"> • Formação acadêmica (cursando) 2/4 •🎓</h2>
 
+<p align="center"><strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong>- Unicid 🌟</p>
 
 <div align="center">
   <a href="https://github.com/PriscilaRoza">
  
-  <img height="230em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRoza&layout=compact&langs_count=7&theme=dracula"/>
-  <img  height="230em" src="https://github-readme-stats.vercel.app/api?username=PriscilaRoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRoza&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=PriscilaRoza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br>
       </div>
   
  <br>
-<h2 align="center"> • Formação acadêmica (cursando) 2/4 •🎓</h2>
 
-<p align="center"><strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong>- Unicid 🌟</p>

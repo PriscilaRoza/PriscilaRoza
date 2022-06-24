@@ -1,4 +1,4 @@
-<h1 align="center">Priscila Roza</h1>
+<h1 align="center">Priscila Roza 🌹</h1>
 <h2 align="center">  • Sobre mim • </h2>
 <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" min-width="300px" max-width="400px" width="450px" align="right"  alt="Computador">
 <h4 width="200px">Meu nome é Priscila Roza, tenho 27 anos. Moro em Guararema - SP<br>

@@ -30,9 +30,9 @@ Iniciei no incrível mundo da programação em 2021.</h4>
 
 <br> </br> ![](https://api.visitorbadge.io/api/VisitorHit?user=PriscilaRoza&repo=github-visitors-badge&countColor=%237B1E7A)<br><br>
 
-<h2 align="center"> • Formação acadêmica (cursando) 4/4 •🎓</h2>
+<h2 align="center"> • Formação acadêmica •🎓</h2>
 
-<p align="center"><strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong>- Unicid 🌟</p>
+<p align="center"><strong> • Análise e Desenvolvimento de Sistemas 🖥️</strong>- Unicid 🌟 - 08/2023 </p>
 
 <div align="center">
   <a href="https://github.com/PriscilaRoza">
